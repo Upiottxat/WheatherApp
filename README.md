@@ -21,8 +21,8 @@ A simple and elegant Weather App built with Android Studio to display real-time 
 
 
 ## 🖼️ Screenshots
-| Home Screen | Weather Info |
-|-------------|--------------|
+| Home Screen | 
+|-------------|
 | ![screenshot1](screenshots/home.png) |
 
 ## 🚀 Getting Started
